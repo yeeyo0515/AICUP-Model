@@ -1,0 +1,406 @@
+{
+    "foreground_mean": {
+        "Dice": 0.5621399645086645,
+        "FN": 85788.16666666667,
+        "FP": 92992.46666666667,
+        "IoU": 0.4911287835957852,
+        "TN": 82909050.3,
+        "TP": 955535.4666666667,
+        "n_pred": 1048527.9333333332,
+        "n_ref": 1041323.6333333332
+    },
+    "mean": {
+        "1": {
+            "Dice": 0.9162799682627192,
+            "FN": 243131.0,
+            "FP": 266173.0,
+            "IoU": 0.8459022036041123,
+            "TN": 80711471.6,
+            "TP": 2822590.8,
+            "n_pred": 3088763.8,
+            "n_ref": 3065721.8
+        },
+        "2": {
+            "Dice": 0.7701399252632746,
+            "FN": 14189.2,
+            "FP": 12804.4,
+            "IoU": 0.6274841471832434,
+            "TN": 83972357.2,
+            "TP": 44015.6,
+            "n_pred": 56820.0,
+            "n_ref": 58204.8
+        },
+        "3": {
+            "Dice": 0.0,
+            "FN": 44.3,
+            "FP": 0.0,
+            "IoU": 0.0,
+            "TN": 84043322.1,
+            "TP": 0.0,
+            "n_pred": 0.0,
+            "n_ref": 44.3
+        }
+    },
+    "metric_per_case": [
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9084049559186411,
+                    "FN": 194285,
+                    "FP": 293535,
+                    "IoU": 0.8321812753218544,
+                    "TN": 75212085,
+                    "TP": 2419007,
+                    "n_pred": 2712542,
+                    "n_ref": 2613292
+                },
+                "2": {
+                    "Dice": 0.7437852900197991,
+                    "FN": 3798,
+                    "FP": 17166,
+                    "IoU": 0.5920845251298815,
+                    "TN": 78067519,
+                    "TP": 30429,
+                    "n_pred": 47595,
+                    "n_ref": 34227
+                },
+                "3": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 78118912,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/code/training/nnUNet/results/Dataset003_Myocardium/nnUNetTrainer__nnUNetResEncUNetPlans_16G__3d_fullres/fold_0/validation/patient_008.nii.gz",
+            "reference_file": "/code/training/nnUNet_preprocessed/Dataset003_Myocardium/gt_segmentations/patient_008.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9324728457937964,
+                    "FN": 257409,
+                    "FP": 160206,
+                    "IoU": 0.8734886434689041,
+                    "TN": 82682224,
+                    "TP": 2883393,
+                    "n_pred": 3043599,
+                    "n_ref": 3140802
+                },
+                "2": {
+                    "Dice": 0.7608424785546557,
+                    "FN": 9231,
+                    "FP": 10731,
+                    "IoU": 0.6139998066325051,
+                    "TN": 85931517,
+                    "TP": 31753,
+                    "n_pred": 42484,
+                    "n_ref": 40984
+                },
+                "3": {
+                    "Dice": 0.0,
+                    "FN": 218,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 85983014,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 218
+                }
+            },
+            "prediction_file": "/code/training/nnUNet/results/Dataset003_Myocardium/nnUNetTrainer__nnUNetResEncUNetPlans_16G__3d_fullres/fold_0/validation/patient_012.nii.gz",
+            "reference_file": "/code/training/nnUNet_preprocessed/Dataset003_Myocardium/gt_segmentations/patient_012.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9394804389281496,
+                    "FN": 200191,
+                    "FP": 166681,
+                    "IoU": 0.8858680908993621,
+                    "TN": 73069448,
+                    "TP": 2847584,
+                    "n_pred": 3014265,
+                    "n_ref": 3047775
+                },
+                "2": {
+                    "Dice": 0.7828639205516355,
+                    "FN": 5322,
+                    "FP": 16280,
+                    "IoU": 0.6432016384778013,
+                    "TN": 76223360,
+                    "TP": 38942,
+                    "n_pred": 55222,
+                    "n_ref": 44264
+                },
+                "3": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 76283904,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/code/training/nnUNet/results/Dataset003_Myocardium/nnUNetTrainer__nnUNetResEncUNetPlans_16G__3d_fullres/fold_0/validation/patient_021.nii.gz",
+            "reference_file": "/code/training/nnUNet_preprocessed/Dataset003_Myocardium/gt_segmentations/patient_021.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.935262739349213,
+                    "FN": 187512,
+                    "FP": 169129,
+                    "IoU": 0.8783976797971391,
+                    "TN": 78593937,
+                    "TP": 2576206,
+                    "n_pred": 2745335,
+                    "n_ref": 2763718
+                },
+                "2": {
+                    "Dice": 0.7715265306122449,
+                    "FN": 7466,
+                    "FP": 13525,
+                    "IoU": 0.6280367869863378,
+                    "TN": 81470351,
+                    "TP": 35442,
+                    "n_pred": 48967,
+                    "n_ref": 42908
+                },
+                "3": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 81526784,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/code/training/nnUNet/results/Dataset003_Myocardium/nnUNetTrainer__nnUNetResEncUNetPlans_16G__3d_fullres/fold_0/validation/patient_022.nii.gz",
+            "reference_file": "/code/training/nnUNet_preprocessed/Dataset003_Myocardium/gt_segmentations/patient_022.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8928062678062678,
+                    "FN": 342826,
+                    "FP": 267000,
+                    "IoU": 0.8063686072692184,
+                    "TN": 62124439,
+                    "TP": 2539591,
+                    "n_pred": 2806591,
+                    "n_ref": 2882417
+                },
+                "2": {
+                    "Dice": 0.6922218255789575,
+                    "FN": 41074,
+                    "FP": 13243,
+                    "IoU": 0.5293113458522171,
+                    "TN": 65158457,
+                    "TP": 61082,
+                    "n_pred": 74325,
+                    "n_ref": 102156
+                },
+                "3": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 65273856,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/code/training/nnUNet/results/Dataset003_Myocardium/nnUNetTrainer__nnUNetResEncUNetPlans_16G__3d_fullres/fold_0/validation/patient_030.nii.gz",
+            "reference_file": "/code/training/nnUNet_preprocessed/Dataset003_Myocardium/gt_segmentations/patient_030.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8927957777818097,
+                    "FN": 212932,
+                    "FP": 336559,
+                    "IoU": 0.806351493126687,
+                    "TN": 72397759,
+                    "TP": 2288078,
+                    "n_pred": 2624637,
+                    "n_ref": 2501010
+                },
+                "2": {
+                    "Dice": 0.773931319587987,
+                    "FN": 10372,
+                    "FP": 15658,
+                    "IoU": 0.6312299889496501,
+                    "TN": 75164742,
+                    "TP": 44556,
+                    "n_pred": 60214,
+                    "n_ref": 54928
+                },
+                "3": {
+                    "Dice": 0.0,
+                    "FN": 225,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 75235103,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 225
+                }
+            },
+            "prediction_file": "/code/training/nnUNet/results/Dataset003_Myocardium/nnUNetTrainer__nnUNetResEncUNetPlans_16G__3d_fullres/fold_0/validation/patient_032.nii.gz",
+            "reference_file": "/code/training/nnUNet_preprocessed/Dataset003_Myocardium/gt_segmentations/patient_032.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9182062491829602,
+                    "FN": 355231,
+                    "FP": 351795,
+                    "IoU": 0.8487812473398669,
+                    "TN": 97822786,
+                    "TP": 3968492,
+                    "n_pred": 4320287,
+                    "n_ref": 4323723
+                },
+                "2": {
+                    "Dice": 0.7500696002954461,
+                    "FN": 32807,
+                    "FP": 11182,
+                    "IoU": 0.6000890933389093,
+                    "TN": 102388307,
+                    "TP": 66008,
+                    "n_pred": 77190,
+                    "n_ref": 98815
+                },
+                "3": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 102498304,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/code/training/nnUNet/results/Dataset003_Myocardium/nnUNetTrainer__nnUNetResEncUNetPlans_16G__3d_fullres/fold_0/validation/patient_033.nii.gz",
+            "reference_file": "/code/training/nnUNet_preprocessed/Dataset003_Myocardium/gt_segmentations/patient_033.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9015632415697798,
+                    "FN": 169577,
+                    "FP": 323639,
+                    "IoU": 0.8207693657832492,
+                    "TN": 69337749,
+                    "TP": 2258635,
+                    "n_pred": 2582274,
+                    "n_ref": 2428212
+                },
+                "2": {
+                    "Dice": 0.8074901076321724,
+                    "FN": 12746,
+                    "FP": 11239,
+                    "IoU": 0.6771349343097135,
+                    "TN": 72015312,
+                    "TP": 50303,
+                    "n_pred": 61542,
+                    "n_ref": 63049
+                },
+                "3": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 72089600,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/code/training/nnUNet/results/Dataset003_Myocardium/nnUNetTrainer__nnUNetResEncUNetPlans_16G__3d_fullres/fold_0/validation/patient_038.nii.gz",
+            "reference_file": "/code/training/nnUNet_preprocessed/Dataset003_Myocardium/gt_segmentations/patient_038.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.919076473029928,
+                    "FN": 289514,
+                    "FP": 224193,
+                    "IoU": 0.850269653771145,
+                    "TN": 94348831,
+                    "TP": 2917174,
+                    "n_pred": 3141367,
+                    "n_ref": 3206688
+                },
+                "2": {
+                    "Dice": 0.7982962699332974,
+                    "FN": 9125,
+                    "FP": 8444,
+                    "IoU": 0.664303729746255,
+                    "TN": 97727376,
+                    "TP": 34767,
+                    "n_pred": 43211,
+                    "n_ref": 43892
+                },
+                "3": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 97779712,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/code/training/nnUNet/results/Dataset003_Myocardium/nnUNetTrainer__nnUNetResEncUNetPlans_16G__3d_fullres/fold_0/validation/patient_042.nii.gz",
+            "reference_file": "/code/training/nnUNet_preprocessed/Dataset003_Myocardium/gt_segmentations/patient_042.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.922730693266645,
+                    "FN": 221833,
+                    "FP": 368993,
+                    "IoU": 0.8565459792636966,
+                    "TN": 101525458,
+                    "TP": 3527748,
+                    "n_pred": 3896741,
+                    "n_ref": 3749581
+                },
+                "2": {
+                    "Dice": 0.82037190986655,
+                    "FN": 9951,
+                    "FP": 10576,
+                    "IoU": 0.6954496224091631,
+                    "TN": 105576631,
+                    "TP": 46874,
+                    "n_pred": 57450,
+                    "n_ref": 56825
+                },
+                "3": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 105644032,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/code/training/nnUNet/results/Dataset003_Myocardium/nnUNetTrainer__nnUNetResEncUNetPlans_16G__3d_fullres/fold_0/validation/patient_045.nii.gz",
+            "reference_file": "/code/training/nnUNet_preprocessed/Dataset003_Myocardium/gt_segmentations/patient_045.nii.gz"
+        }
+    ]
+}
